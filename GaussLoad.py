@@ -6,7 +6,7 @@ import numpy as np
 from torch.utils.data import Dataset, DataLoader
 
 
-#We're Making This Thing GodTier Obviously.
+
 k=3
 class Gauss_nnMLE(nn.Module):
     def __init__(self):
