@@ -29,7 +29,7 @@ class testDataSet(Dataset):
 
 k = 3
 d = 2
-#We're Making This Thing GodTier Obviously.
+
 class Gauss_nnMLE(nn.Module):
     def __init__(self):
         #For Sig and Pi, we have a scalar for each mixture kernel.
