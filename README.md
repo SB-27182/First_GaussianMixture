@@ -1,6 +1,6 @@
 # Implementation of [Bishop 1995. (p:212-222)](https://dl.acm.org/doi/10.5555/525960) Mixture Gaussian Neural Network. Implemented only using pytorch. No EM-algorithm. 
 - Diagonal Covariance Matrix
-- K clustered gaussians
+- K discrete gaussians
 - Emphasis on log-likelihood vs exponential-likelihood criterions
 
 <p align="center">
