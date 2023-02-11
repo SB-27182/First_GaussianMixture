@@ -9,6 +9,8 @@
   <img src="https://github.com/SB-27182/First_GaussianMixture/blob/master/imgs/mixtureKernelProbabilites.png" width=300 height=300 />
 </p>
 
-
+<p align="center">
+<img src="https://github.com/SB-27182/First_GaussianMixture/blob/master/imgs/3Kernels_3_Branches.png" width=400 height=300 />
+</p>
 
 
